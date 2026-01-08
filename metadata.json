@@ -1,0 +1,7 @@
+{
+  "name": "NexusCore Pro - Community & Payments",
+  "description": "Enterprise-grade community platform with AI-driven content synthesis and multi-modal treasury settlements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
